@@ -1,3 +1,4 @@
+/nbproject/*
 ###(symfony4)
 ###> symfony/framework-bundle ###
 /.env
